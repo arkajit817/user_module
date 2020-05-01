@@ -1,0 +1,8 @@
+# Logs
+logs
+*.log
+
+uploads/*
+!uploads/.gitkeep
+.vscode/
+node_modules/
